@@ -1,6 +1,6 @@
 # [Lotus - Jo Website](https://www.lotus-jo.com/)
 
-Welcome to the **Lotus - Jo** website repository! This project is a fully responsive and dynamic website designed and developed to showcase the services and offerings of Lotus - Jo. The platform combines modern front-end technologies with a robust PHP-based back-end to deliver a seamless user experience.
+Welcome to the **Lotus - Jo** website repository! This project is a fully responsive and dynamic website designed and developed to showcase the services and offerings of Lotus - Jo. The platform combines modern front-end technologies with a robust PHP-based back-end to deliver a seamless user experience. Access it here [Lotus - Jo Website](https://www.lotus-jo.com/)
 
 ---
 
