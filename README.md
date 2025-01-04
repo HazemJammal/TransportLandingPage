@@ -1,4 +1,4 @@
-# Lotus - Jo Website
+# [Lotus - Jo Website](https://www.lotus-jo.com/)
 
 Welcome to the **Lotus - Jo** website repository! This project is a fully responsive and dynamic website designed and developed to showcase the services and offerings of Lotus - Jo. The platform combines modern front-end technologies with a robust PHP-based back-end to deliver a seamless user experience.
 
@@ -50,25 +50,6 @@ The **Lotus - Jo** website is designed to serve as an online presence for [brief
 ## Usage
 
 - To view the live website, visit: [https://www.lotus-jo.com/](https://www.lotus-jo.com/)
-- Administrators can update content directly by editing the PHP files or database (if a database is used).
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push the branch to your fork.
-4. Open a pull request to merge your changes.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the terms of the license.
-
 ---
 
 ## Acknowledgments
@@ -77,5 +58,3 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 - Built with passion and dedication using modern web technologies.
 
 ---
-
-For any inquiries or support, please contact [your email address or LinkedIn profile].
