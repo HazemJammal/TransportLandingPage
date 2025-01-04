@@ -9,7 +9,6 @@ Welcome to the **Lotus - Jo** website repository! This project is a fully respon
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -45,30 +44,6 @@ The **Lotus - Jo** website is designed to serve as an online presence for [brief
 
 - **Back-End:**
   - PHP for server-side scripting
-
----
-
-## Setup and Installation
-
-To set up the project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/lotus-jo.git
-   cd lotus-jo
-   ```
-
-2. **Set up a local server:**
-   Ensure you have a local server environment installed (e.g., XAMPP, WAMP, or MAMP).
-
-3. **Move files to the server root:**
-   Copy the project files into the appropriate directory (e.g., `htdocs` for XAMPP).
-
-4. **Start the local server:**
-   Start your local server and open your browser to access the site at `http://localhost/lotus-jo/`.
-
-5. **Edit configuration (if applicable):**
-   - Update any necessary configuration settings in the PHP files (e.g., database connection details).
 
 ---
 
