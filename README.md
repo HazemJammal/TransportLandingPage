@@ -43,7 +43,7 @@ The **Lotus - Jo** website is designed to serve as an online presence for [brief
   - Bootstrap for responsive design
 
 - **Back-End:**
-  - PHP for server-side scripting
+  - PHP for server-side scripting,
 
 ---
 
